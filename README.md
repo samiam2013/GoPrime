@@ -31,7 +31,7 @@ and this floors it (hahahahhahahaha it's fast) on the fan function timeouts in m
 
 and it skips all the hub-ub with checking it's mod 0 with anything by running a faster deterministic run of function first concurrently with the main algorith isBigPrime. 
 
-I did notice that the graph of memory use in windows is very similar to the solution graph of the [Reimann-Zeta Hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis)
+I did notice that the graph of memory use in windows is very similar to the solution graph of the [Reimann-Zeta Hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) (which is an "imaginary" mathematical function) integrated into total work needed for positive integers over time, because the work gets easier as the prime numbers skew apart at higher numbers
 
 I've thought a lot about prime numbers
 
