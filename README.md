@@ -13,7 +13,7 @@ the current implementation, based on your compiler is uses an algorithm
 
 `lowerRange := int64(math.Log2(float64(timeout)))`
 
-`msPerTimeout := (lT+1)*(lR+1)*lR ^ (2 ^ lR)`
+`msPerTimeout := (lowerTimeout+1)*(lowerRange+1)*lR ^ (2 ^ lowerRange)`
 
 `msPerTimeout := msPerTimout ^ timeout + 1`
 
